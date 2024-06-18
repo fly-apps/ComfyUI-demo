@@ -10,7 +10,7 @@
 ## Deploy
 
 ```
-fly launch --from https://github.com/fly-apps/fooocus-demo
+fly launch --from https://github.com/fly-apps/ComfyUI-demo
 ```
 
 ## Update ComfyUI
